@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.user.UserRepositoryMySQLTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-03-24T11:41:03" hostname="MIRIEM-PC" time="9.36">
+  <properties/>
+  <testcase name="findAll" classname="repository.user.UserRepositoryMySQLTest" time="1.454"/>
+  <testcase name="update" classname="repository.user.UserRepositoryMySQLTest" time="1.523"/>
+  <testcase name="findByUsernameAndPassword" classname="repository.user.UserRepositoryMySQLTest" time="1.31"/>
+  <testcase name="save" classname="repository.user.UserRepositoryMySQLTest" time="1.322"/>
+  <testcase name="removeUser" classname="repository.user.UserRepositoryMySQLTest" time="1.206"/>
+  <testcase name="removeAll" classname="repository.user.UserRepositoryMySQLTest" time="1.198"/>
+  <testcase name="findByUsername" classname="repository.user.UserRepositoryMySQLTest" time="1.345"/>
+  <system-out><![CDATA[Dropping all tables in schema: test_bank
+Dropping all tables in schema: bank
+Done table bootstrap
+Bootstrapping test_bank schema
+Bootstrapping bank schema
+Done table bootstrap
+Bootstrapping user data for test_bank
+Bootstrapping user data for bank
+Dropping all tables in schema: test_bank
+Dropping all tables in schema: bank
+Done table bootstrap
+Bootstrapping test_bank schema
+Bootstrapping bank schema
+Done table bootstrap
+Bootstrapping user data for test_bank
+Bootstrapping user data for bank
+Dropping all tables in schema: test_bank
+Dropping all tables in schema: bank
+Done table bootstrap
+Bootstrapping test_bank schema
+Bootstrapping bank schema
+Done table bootstrap
+Bootstrapping user data for test_bank
+Bootstrapping user data for bank
+Dropping all tables in schema: test_bank
+Dropping all tables in schema: bank
+Done table bootstrap
+Bootstrapping test_bank schema
+Bootstrapping bank schema
+Done table bootstrap
+Bootstrapping user data for test_bank
+Bootstrapping user data for bank
+Dropping all tables in schema: test_bank
+Dropping all tables in schema: bank
+Done table bootstrap
+Bootstrapping test_bank schema
+Bootstrapping bank schema
+Done table bootstrap
+Bootstrapping user data for test_bank
+Bootstrapping user data for bank
+Dropping all tables in schema: test_bank
+Dropping all tables in schema: bank
+Done table bootstrap
+Bootstrapping test_bank schema
+Bootstrapping bank schema
+Done table bootstrap
+Bootstrapping user data for test_bank
+Bootstrapping user data for bank
+Dropping all tables in schema: test_bank
+Dropping all tables in schema: bank
+Done table bootstrap
+Bootstrapping test_bank schema
+Bootstrapping bank schema
+Done table bootstrap
+Bootstrapping user data for test_bank
+Bootstrapping user data for bank
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
